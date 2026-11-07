@@ -3,12 +3,12 @@ Passionate web developer & designer based in Germany. <br>
 Currently studying Computer Science at TU Darmstadt. <br>
 
 <!--[![mansour.codes](https://img.shields.io/badge/mansour.codes-674ea7)](https://mansour.codes)-->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mansouroussama)
-[![X (Twitter)](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mansourcodes)
+[![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-%40mansouroussama-0A66C2.svg?logo=linkedin&variant=branded&size=sm)](https://linkedin.com/in/mansouroussama) 
+[![Twitter / X](https://www.shieldcn.dev/x/follow/mansourcodes.svg?variant=branded&size=sm)](https://x.com/mansourcodes)
 <!--[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=white)](https://dribbble.com/mansouroussama)-->
 ### Stack
 
-[![Skills](https://skills.syvixor.com/api/icons?perline=12&i=html,css,sass,tailwindcss,shadcnui,java,javascript,typescript,reactjs,reactrouter,reactquery,redux,nextjs,vite,vercel,git,github,npm,motion,visualstudiocode,cursor,claudeai,adobephotoshop,figma)](javascript:void(0))
+[![Skills](https://skills.syvixor.com/api/icons?perline=12&i=html,css,tailwindcss,shadcnui,java,javascript,typescript,reactjs,reactrouter,reactquery,redux,nextjs,vite,vercel,git,github,npm,motion,visualstudiocode,cursor,claudeai,adobephotoshop,figma)](javascript:void(0))
 
 <!--### 🛠️ Projects
 - `OmniBrain` — chatbot with access to multiple LLMs
